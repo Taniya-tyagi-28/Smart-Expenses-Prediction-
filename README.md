@@ -85,10 +85,4 @@ Output:
 
 ---
 
-### Author
-
-Taniya Tyagi
-Feel free to reach out for improvements or suggestions!
-
-
 
