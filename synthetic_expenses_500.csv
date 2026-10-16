@@ -1,0 +1,501 @@
+Date,Description,Amount,Payment_Mode,Category
+2025-01-10,Flight Booking,1282.73,UPI,Travel
+2025-02-15,Big Bazaar Groceries,3211.7,UPI,Shopping
+2025-02-12,Electronics Store,4289.68,UPI,Shopping
+2025-01-30,Internet Bill,3514.77,UPI,Utilities
+2025-01-18,Myntra Clothing,3892.02,Card,Shopping
+2025-02-10,McDonald's,3571.95,Card,Food
+2025-02-13,Spotify Premium,451.82,Card,Entertainment
+2025-03-02,Hospital Bill,3604.93,Card,Health
+2025-01-30,Gas Bill,133.97,Card,Utilities
+2025-01-23,Health Insurance,787.71,Cash,Health
+2025-02-07,Swiggy Delivery,3883.09,UPI,Food
+2025-01-06,Train Ticket,3342.24,UPI,Travel
+2025-02-06,Gas Bill,1914.21,Cash,Utilities
+2025-01-23,Zomato Order,1454.61,UPI,Food
+2025-01-21,Hospital Bill,2608.45,Cash,Health
+2025-01-24,Gas Bill,1919.52,Cash,Utilities
+2025-01-13,Electricity Bill,4949.68,UPI,Utilities
+2025-01-06,BookMyShow Tickets,1008.56,Card,Entertainment
+2025-01-24,Gas Bill,4265.75,NetBanking,Utilities
+2025-02-09,Uber Ride,4727.62,Card,Travel
+2025-01-07,Train Ticket,4789.47,Cash,Travel
+2025-01-06,Ola Cab,3165.81,UPI,Travel
+2025-01-08,Spotify Premium,1927.08,UPI,Entertainment
+2025-01-21,Water Bill,539.9,NetBanking,Utilities
+2025-01-14,Ola Cab,4750.04,Card,Travel
+2025-02-05,Ola Cab,4581.34,NetBanking,Travel
+2025-02-05,Mobile Recharge,2383.68,Card,Utilities
+2025-02-09,Zomato Order,3770.19,UPI,Food
+2025-01-25,Netflix Subscription,3506.28,Cash,Entertainment
+2025-01-12,Ola Cab,1402.79,Cash,Travel
+2025-01-13,Flipkart Order,526.92,Cash,Shopping
+2025-01-02,Internet Bill,1303.7,UPI,Utilities
+2025-02-04,Petrol Pump,3959.62,NetBanking,Travel
+2025-02-18,Zomato Order,1353.89,NetBanking,Food
+2025-03-02,Hospital Bill,2054.62,Cash,Health
+2025-02-20,Metro Recharge,1331.89,Card,Travel
+2025-01-14,Apollo Pharmacy,3105.19,Cash,Health
+2025-02-23,Netflix Subscription,2845.41,Cash,Entertainment
+2025-01-26,Cafe Coffee Day,2459.65,Card,Food
+2025-01-11,Amazon Purchase,3234.8,Card,Shopping
+2025-01-27,Train Ticket,3094.98,Card,Travel
+2025-02-25,Doctor Consultation,187.59,Cash,Health
+2025-03-02,Netflix Subscription,4040.68,UPI,Entertainment
+2025-02-23,Water Bill,4109.74,NetBanking,Utilities
+2025-01-23,Hospital Bill,3969.99,Cash,Health
+2025-02-08,Flight Booking,3207,UPI,Travel
+2025-01-25,Cafe Coffee Day,4654.92,NetBanking,Food
+2025-02-17,Health Insurance,2018.68,Cash,Health
+2025-01-14,Internet Bill,2562.33,UPI,Utilities
+2025-01-27,Flight Booking,3362.55,UPI,Travel
+2025-02-01,Ola Cab,2066.98,Cash,Travel
+2025-01-03,PVR Cinemas,4091.93,UPI,Entertainment
+2025-02-09,Medicine Store,3868.26,Cash,Health
+2025-01-01,Spotify Premium,633.73,Cash,Entertainment
+2025-01-31,Train Ticket,206.96,UPI,Travel
+2025-02-23,Petrol Pump,4015.62,Cash,Travel
+2025-02-24,Cafe Coffee Day,2165.98,Card,Food
+2025-02-04,PVR Cinemas,2396.61,NetBanking,Entertainment
+2025-02-24,Domino's Pizza,3982.62,Cash,Food
+2025-02-15,Apollo Pharmacy,1240.13,NetBanking,Health
+2025-01-21,Big Bazaar Groceries,3917.06,Card,Shopping
+2025-01-29,Apollo Pharmacy,2023.98,UPI,Health
+2025-01-02,Doctor Consultation,3374.21,Card,Health
+2025-03-02,Health Insurance,3103.74,UPI,Health
+2025-01-31,BookMyShow Tickets,3622.93,Cash,Entertainment
+2025-01-12,Apollo Pharmacy,1402.4,Card,Health
+2025-02-10,Myntra Clothing,1351.82,Card,Shopping
+2025-02-07,PVR Cinemas,1803.59,UPI,Entertainment
+2025-02-15,Gas Bill,224.43,Cash,Utilities
+2025-01-22,Domino's Pizza,3187.38,UPI,Food
+2025-01-05,Cafe Coffee Day,2476.83,Card,Food
+2025-02-07,Zomato Order,2539.43,UPI,Food
+2025-02-08,Myntra Clothing,2337.89,Cash,Shopping
+2025-02-14,Mobile Recharge,678.79,UPI,Utilities
+2025-02-10,Gas Bill,4594.45,NetBanking,Utilities
+2025-01-21,Electricity Bill,4575.09,Card,Utilities
+2025-01-19,Metro Recharge,1980.53,UPI,Travel
+2025-02-20,Train Ticket,2018.64,Card,Travel
+2025-02-16,PVR Cinemas,798.53,Card,Entertainment
+2025-02-02,Medicine Store,627.78,UPI,Health
+2025-01-02,BookMyShow Tickets,2327.18,Card,Entertainment
+2025-01-28,McDonald's,2317.91,Card,Food
+2025-01-26,Ola Cab,278.77,Cash,Travel
+2025-01-14,Health Insurance,4001.29,Cash,Health
+2025-01-04,Flipkart Order,2430.83,Card,Shopping
+2025-02-21,Mobile Recharge,3358.9,Cash,Utilities
+2025-01-20,Mobile Recharge,4800.4,NetBanking,Utilities
+2025-01-24,Spotify Premium,4582.97,NetBanking,Entertainment
+2025-02-04,Domino's Pizza,1291.47,Card,Food
+2025-01-28,Domino's Pizza,1497.58,NetBanking,Food
+2025-01-20,Cafe Coffee Day,2889.02,Cash,Food
+2025-01-12,Domino's Pizza,3685.77,NetBanking,Food
+2025-02-24,Domino's Pizza,4817.68,Cash,Food
+2025-02-20,Big Bazaar Groceries,3856.94,NetBanking,Shopping
+2025-02-19,Medicine Store,3081.79,NetBanking,Health
+2025-02-11,McDonald's,1161.19,Card,Food
+2025-01-03,Medicine Store,3701.09,NetBanking,Health
+2025-02-07,Flight Booking,1769.28,NetBanking,Travel
+2025-01-27,Doctor Consultation,2012.85,NetBanking,Health
+2025-01-29,McDonald's,3018.11,Cash,Food
+2025-02-02,PVR Cinemas,2306.5,Card,Entertainment
+2025-02-02,Medicine Store,2471.49,NetBanking,Health
+2025-01-25,Flipkart Order,4851.37,NetBanking,Shopping
+2025-02-03,Petrol Pump,1504.27,UPI,Travel
+2025-01-24,Apollo Pharmacy,1679.07,UPI,Health
+2025-01-13,Netflix Subscription,1288.17,UPI,Entertainment
+2025-02-26,McDonald's,3164.26,UPI,Food
+2025-01-03,BookMyShow Tickets,4597.38,NetBanking,Entertainment
+2025-02-12,Flight Booking,845.84,Card,Travel
+2025-02-18,PVR Cinemas,2054.66,Cash,Entertainment
+2025-03-02,Netflix Subscription,3755.33,Card,Entertainment
+2025-01-23,PVR Cinemas,3169.69,UPI,Entertainment
+2025-01-27,BookMyShow Tickets,4522.37,UPI,Entertainment
+2025-01-23,Netflix Subscription,1370.26,Cash,Entertainment
+2025-01-27,PVR Cinemas,483.79,NetBanking,Entertainment
+2025-02-23,Big Bazaar Groceries,3892.77,Cash,Shopping
+2025-02-12,Petrol Pump,829.77,NetBanking,Travel
+2025-01-17,Mobile Recharge,3479.84,NetBanking,Utilities
+2025-02-13,PVR Cinemas,4634.39,Card,Entertainment
+2025-02-03,Water Bill,1433.59,NetBanking,Utilities
+2025-01-16,Mobile Recharge,385.51,Card,Utilities
+2025-02-13,Train Ticket,630.53,Cash,Travel
+2025-02-21,Metro Recharge,4962.6,NetBanking,Travel
+2025-01-08,Flight Booking,3257.03,Cash,Travel
+2025-02-25,KFC,4417.45,Card,Food
+2025-01-09,Water Bill,2880.6,NetBanking,Utilities
+2025-01-16,Spotify Premium,4372.54,Card,Entertainment
+2025-01-18,Internet Bill,2345.12,Card,Utilities
+2025-02-05,Internet Bill,1755.91,Cash,Utilities
+2025-02-18,Netflix Subscription,323.66,Card,Entertainment
+2025-01-23,Netflix Subscription,1779.04,Card,Entertainment
+2025-02-22,PVR Cinemas,1703.91,NetBanking,Entertainment
+2025-01-26,Zomato Order,752.6,Cash,Food
+2025-01-27,Big Bazaar Groceries,4685.88,NetBanking,Shopping
+2025-02-17,Doctor Consultation,3114.1,Cash,Health
+2025-02-19,Flipkart Order,3299.52,Card,Shopping
+2025-02-01,Apollo Pharmacy,1144.54,NetBanking,Health
+2025-02-18,KFC,2638.02,UPI,Food
+2025-01-28,Spotify Premium,942.06,UPI,Entertainment
+2025-01-01,Internet Bill,4432.63,UPI,Utilities
+2025-02-06,Netflix Subscription,4711.23,UPI,Entertainment
+2025-03-01,Amazon Purchase,696.81,NetBanking,Shopping
+2025-02-04,Zomato Order,3663.19,Card,Food
+2025-01-30,Water Bill,920.96,Card,Utilities
+2025-01-16,YouTube Premium,3266.05,Card,Entertainment
+2025-03-01,DTH Recharge,714.81,Card,Utilities
+2025-01-06,Netflix Subscription,3714.65,Card,Entertainment
+2025-02-04,BookMyShow Tickets,360.53,Cash,Entertainment
+2025-02-19,BookMyShow Tickets,2816.04,Cash,Entertainment
+2025-02-02,Train Ticket,1196.61,Card,Travel
+2025-02-13,Medicine Store,3083.95,Cash,Health
+2025-01-23,Domino's Pizza,1904.72,Card,Food
+2025-02-19,Hospital Bill,3836.89,NetBanking,Health
+2025-02-17,Apollo Pharmacy,2112.5,UPI,Health
+2025-02-11,Spotify Premium,1374.38,UPI,Entertainment
+2025-02-03,Metro Recharge,3079.55,UPI,Travel
+2025-01-03,Netflix Subscription,630.77,NetBanking,Entertainment
+2025-01-02,PVR Cinemas,4755.81,Cash,Entertainment
+2025-01-25,Myntra Clothing,3965.37,Card,Shopping
+2025-01-13,Cafe Coffee Day,3868.59,UPI,Food
+2025-01-31,McDonald's,1590.21,Cash,Food
+2025-02-10,Myntra Clothing,4274.08,Card,Shopping
+2025-01-24,Spotify Premium,1133.44,UPI,Entertainment
+2025-01-05,Doctor Consultation,1265.75,Cash,Health
+2025-01-09,Cafe Coffee Day,2891.19,Cash,Food
+2025-02-14,Metro Recharge,3396.79,Cash,Travel
+2025-02-18,Domino's Pizza,3626.65,NetBanking,Food
+2025-01-12,Gas Bill,4891.06,Cash,Utilities
+2025-02-13,Train Ticket,2769.32,NetBanking,Travel
+2025-02-12,Internet Bill,2392.53,Card,Utilities
+2025-01-01,YouTube Premium,2129.69,Cash,Entertainment
+2025-01-26,Water Bill,4205.96,UPI,Utilities
+2025-02-21,Cafe Coffee Day,2521.49,UPI,Food
+2025-01-31,Train Ticket,2801.47,NetBanking,Travel
+2025-02-24,KFC,254.77,NetBanking,Food
+2025-01-13,Netflix Subscription,1182.34,NetBanking,Entertainment
+2025-02-05,Electronics Store,314.94,UPI,Shopping
+2025-01-13,Uber Ride,3581.94,NetBanking,Travel
+2025-02-25,Swiggy Delivery,3263.98,Card,Food
+2025-02-25,YouTube Premium,4072.96,Cash,Entertainment
+2025-01-16,Apollo Pharmacy,1160.82,NetBanking,Health
+2025-02-04,Petrol Pump,1796.34,Card,Travel
+2025-01-10,Amazon Purchase,3147.39,Cash,Shopping
+2025-01-25,Doctor Consultation,2602.97,Card,Health
+2025-03-01,Amazon Purchase,824.24,NetBanking,Shopping
+2025-01-23,Electricity Bill,4328.62,UPI,Utilities
+2025-01-05,Flipkart Order,3496.38,Card,Shopping
+2025-02-13,Electronics Store,158.18,Card,Shopping
+2025-01-26,Petrol Pump,143.19,NetBanking,Travel
+2025-01-19,KFC,4806.93,Card,Food
+2025-01-01,Domino's Pizza,3449.62,UPI,Food
+2025-01-18,Apollo Pharmacy,4636.24,Cash,Health
+2025-02-03,Domino's Pizza,1697.91,Cash,Food
+2025-02-09,Water Bill,2142.4,UPI,Utilities
+2025-02-27,BookMyShow Tickets,1254.59,Cash,Entertainment
+2025-01-20,Gas Bill,3501.23,UPI,Utilities
+2025-03-02,Swiggy Delivery,1180.78,NetBanking,Food
+2025-01-21,Medicine Store,2055.45,UPI,Health
+2025-01-12,Petrol Pump,2121.03,Cash,Travel
+2025-01-26,Big Bazaar Groceries,4263.58,NetBanking,Shopping
+2025-02-18,Big Bazaar Groceries,1952.17,NetBanking,Shopping
+2025-01-25,Netflix Subscription,441.95,NetBanking,Entertainment
+2025-01-04,Hospital Bill,1082.03,UPI,Health
+2025-01-30,Petrol Pump,904.69,Card,Travel
+2025-01-28,Flight Booking,1000.8,Cash,Travel
+2025-02-04,Myntra Clothing,1480.94,Card,Shopping
+2025-03-02,Electronics Store,3750.37,Cash,Shopping
+2025-01-10,Zomato Order,732.63,NetBanking,Food
+2025-01-05,Swiggy Delivery,3548.52,NetBanking,Food
+2025-03-01,Uber Ride,3658.83,Cash,Travel
+2025-01-12,Apollo Pharmacy,4980.86,Cash,Health
+2025-01-09,Ola Cab,2141.07,NetBanking,Travel
+2025-01-28,Myntra Clothing,3219.47,UPI,Shopping
+2025-02-07,Train Ticket,3615.85,Card,Travel
+2025-02-25,Apollo Pharmacy,4978.59,NetBanking,Health
+2025-02-02,Domino's Pizza,3595.17,UPI,Food
+2025-01-13,Health Insurance,934.23,Cash,Health
+2025-01-07,Spotify Premium,3315.65,Cash,Entertainment
+2025-01-08,Zomato Order,410.69,NetBanking,Food
+2025-01-19,Cafe Coffee Day,534.49,Cash,Food
+2025-01-10,Zomato Order,1513.28,NetBanking,Food
+2025-01-06,Flipkart Order,3473.7,Card,Shopping
+2025-02-24,Gas Bill,894.91,Card,Utilities
+2025-02-13,Petrol Pump,3961.73,Cash,Travel
+2025-01-01,YouTube Premium,4452.7,NetBanking,Entertainment
+2025-01-19,Netflix Subscription,4483.46,Cash,Entertainment
+2025-02-28,Uber Ride,893.78,Card,Travel
+2025-01-12,Train Ticket,3149.07,UPI,Travel
+2025-02-15,Doctor Consultation,2864.66,UPI,Health
+2025-02-16,Doctor Consultation,2220.32,UPI,Health
+2025-02-19,Petrol Pump,308.39,Card,Travel
+2025-01-01,Big Bazaar Groceries,1394.32,Cash,Shopping
+2025-01-15,Big Bazaar Groceries,1909.25,NetBanking,Shopping
+2025-02-27,Netflix Subscription,2062.88,UPI,Entertainment
+2025-01-01,Medicine Store,4051.81,NetBanking,Health
+2025-02-08,Flipkart Order,3493.38,Cash,Shopping
+2025-01-11,Cafe Coffee Day,3069.4,Cash,Food
+2025-01-01,BookMyShow Tickets,4756.22,Cash,Entertainment
+2025-01-30,Flight Booking,3705.77,Cash,Travel
+2025-03-01,Doctor Consultation,2200.3,Card,Health
+2025-02-07,Zomato Order,2825.11,NetBanking,Food
+2025-01-21,Health Insurance,2450.86,NetBanking,Health
+2025-02-15,Amazon Purchase,4788.84,UPI,Shopping
+2025-02-28,Big Bazaar Groceries,1635.29,UPI,Shopping
+2025-01-23,Gas Bill,3540.88,Card,Utilities
+2025-01-03,Domino's Pizza,4961.29,NetBanking,Food
+2025-01-04,Electronics Store,2449.82,Card,Shopping
+2025-01-01,Internet Bill,4951.59,NetBanking,Utilities
+2025-01-24,Myntra Clothing,307.68,UPI,Shopping
+2025-01-29,Apollo Pharmacy,1335.31,UPI,Health
+2025-01-11,Water Bill,267.6,Card,Utilities
+2025-01-17,Netflix Subscription,4592.56,UPI,Entertainment
+2025-01-20,Cafe Coffee Day,4158.85,Cash,Food
+2025-01-07,Cafe Coffee Day,445.37,Card,Food
+2025-02-06,Amazon Purchase,2855.29,Card,Shopping
+2025-01-20,Apollo Pharmacy,724.97,Cash,Health
+2025-01-15,YouTube Premium,1019.79,UPI,Entertainment
+2025-02-20,Health Insurance,3488.71,NetBanking,Health
+2025-01-20,Spotify Premium,1621.25,Cash,Entertainment
+2025-01-31,Electricity Bill,4187.38,Cash,Utilities
+2025-02-01,Doctor Consultation,2940.24,Card,Health
+2025-02-08,Petrol Pump,4083.19,NetBanking,Travel
+2025-01-31,Spotify Premium,4115.44,UPI,Entertainment
+2025-02-19,Petrol Pump,3494.63,UPI,Travel
+2025-02-15,PVR Cinemas,4391.82,NetBanking,Entertainment
+2025-01-18,Gas Bill,1337.11,UPI,Utilities
+2025-01-04,Internet Bill,3173.33,Cash,Utilities
+2025-01-25,Domino's Pizza,3678.83,Card,Food
+2025-01-05,Cafe Coffee Day,4161.53,Card,Food
+2025-01-16,Ola Cab,3320.3,UPI,Travel
+2025-02-27,Petrol Pump,3192.42,UPI,Travel
+2025-01-07,Domino's Pizza,3976.75,NetBanking,Food
+2025-01-24,Apollo Pharmacy,2268.13,Cash,Health
+2025-01-09,Swiggy Delivery,444.72,UPI,Food
+2025-02-07,Amazon Purchase,4712.07,NetBanking,Shopping
+2025-02-09,Water Bill,4722.71,Cash,Utilities
+2025-01-22,Cafe Coffee Day,3579.24,Card,Food
+2025-01-24,BookMyShow Tickets,1947.85,UPI,Entertainment
+2025-02-24,Train Ticket,4153.08,NetBanking,Travel
+2025-02-06,Water Bill,1234.22,UPI,Utilities
+2025-01-27,Metro Recharge,2085.46,Card,Travel
+2025-02-21,Myntra Clothing,2688.26,NetBanking,Shopping
+2025-01-20,KFC,4003.35,Cash,Food
+2025-01-12,Medicine Store,3150,NetBanking,Health
+2025-01-22,Ola Cab,877.11,Card,Travel
+2025-03-02,Big Bazaar Groceries,357.66,Card,Shopping
+2025-02-03,Electricity Bill,2915.79,NetBanking,Utilities
+2025-02-21,Medicine Store,4940,UPI,Health
+2025-02-18,Electricity Bill,4225.16,Card,Utilities
+2025-01-22,Water Bill,807.04,Cash,Utilities
+2025-01-24,Big Bazaar Groceries,4957.55,NetBanking,Shopping
+2025-01-24,KFC,2955.89,UPI,Food
+2025-01-14,Train Ticket,251.87,UPI,Travel
+2025-01-23,Netflix Subscription,2800.95,Cash,Entertainment
+2025-01-02,McDonald's,4888.02,NetBanking,Food
+2025-01-14,Internet Bill,2062.47,UPI,Utilities
+2025-01-09,Big Bazaar Groceries,3930.32,Card,Shopping
+2025-01-18,Health Insurance,1050.6,Card,Health
+2025-02-26,Gas Bill,1361.01,UPI,Utilities
+2025-01-10,Spotify Premium,236.39,NetBanking,Entertainment
+2025-02-24,Amazon Purchase,2794.75,UPI,Shopping
+2025-02-07,KFC,1602.72,Card,Food
+2025-02-12,Spotify Premium,1930.42,Card,Entertainment
+2025-02-14,Medicine Store,3564.37,UPI,Health
+2025-02-17,Flight Booking,2161.7,Card,Travel
+2025-01-31,Myntra Clothing,2331.62,Cash,Shopping
+2025-02-24,Electricity Bill,3237.68,NetBanking,Utilities
+2025-01-29,Metro Recharge,1933.21,Cash,Travel
+2025-01-21,Myntra Clothing,413.02,UPI,Shopping
+2025-03-02,Hospital Bill,1705.47,Card,Health
+2025-01-28,Myntra Clothing,2085.83,Cash,Shopping
+2025-03-01,Uber Ride,4559.48,NetBanking,Travel
+2025-02-18,Electronics Store,3306.68,UPI,Shopping
+2025-01-02,Swiggy Delivery,750.66,NetBanking,Food
+2025-01-29,Flipkart Order,3004.1,UPI,Shopping
+2025-01-13,Swiggy Delivery,4662.92,Cash,Food
+2025-01-21,Doctor Consultation,1527.4,Cash,Health
+2025-02-23,KFC,3819.93,Card,Food
+2025-02-27,Flight Booking,889.91,Cash,Travel
+2025-01-20,Electronics Store,2847.55,NetBanking,Shopping
+2025-02-10,BookMyShow Tickets,2279.08,UPI,Entertainment
+2025-02-24,Doctor Consultation,3764.06,NetBanking,Health
+2025-01-12,Amazon Purchase,3220.78,UPI,Shopping
+2025-01-06,Amazon Purchase,1328.66,UPI,Shopping
+2025-02-19,Uber Ride,1627.53,NetBanking,Travel
+2025-02-11,Petrol Pump,3943.14,Card,Travel
+2025-02-28,BookMyShow Tickets,3385.18,NetBanking,Entertainment
+2025-02-14,Doctor Consultation,4008.06,NetBanking,Health
+2025-02-12,DTH Recharge,2680.92,Card,Utilities
+2025-01-09,BookMyShow Tickets,1518.24,UPI,Entertainment
+2025-02-22,PVR Cinemas,2551.47,Card,Entertainment
+2025-01-29,Netflix Subscription,3051.98,Card,Entertainment
+2025-01-17,Netflix Subscription,1230.33,Card,Entertainment
+2025-02-14,Petrol Pump,354.45,Card,Travel
+2025-02-28,Electronics Store,2903.56,Card,Shopping
+2025-01-30,Electricity Bill,950.87,UPI,Utilities
+2025-02-17,Water Bill,2973.11,NetBanking,Utilities
+2025-01-14,Swiggy Delivery,4382.5,NetBanking,Food
+2025-01-11,Medicine Store,1202.69,UPI,Health
+2025-02-08,Electronics Store,3887,Cash,Shopping
+2025-01-20,Big Bazaar Groceries,1299.46,UPI,Shopping
+2025-03-01,YouTube Premium,1314.71,Cash,Entertainment
+2025-02-06,Electronics Store,3828.97,NetBanking,Shopping
+2025-02-16,McDonald's,3720.23,UPI,Food
+2025-02-20,Electronics Store,846.03,NetBanking,Shopping
+2025-01-10,Myntra Clothing,3412.93,NetBanking,Shopping
+2025-01-07,YouTube Premium,759.32,NetBanking,Entertainment
+2025-01-28,Big Bazaar Groceries,3017.06,Cash,Shopping
+2025-02-06,Flipkart Order,1985.51,Cash,Shopping
+2025-01-31,Uber Ride,3534.11,NetBanking,Travel
+2025-01-31,Electronics Store,1409.06,Card,Shopping
+2025-01-08,PVR Cinemas,4026.73,Cash,Entertainment
+2025-01-30,Zomato Order,2027.11,NetBanking,Food
+2025-01-11,Swiggy Delivery,3314.49,Cash,Food
+2025-02-10,Amazon Purchase,672.09,NetBanking,Shopping
+2025-02-13,Apollo Pharmacy,749.94,Cash,Health
+2025-02-21,Petrol Pump,4835.74,Card,Travel
+2025-02-27,Ola Cab,1595.93,Cash,Travel
+2025-02-12,Apollo Pharmacy,4729.72,Card,Health
+2025-01-15,McDonald's,1325.98,NetBanking,Food
+2025-01-26,Water Bill,3648.96,Card,Utilities
+2025-01-21,Train Ticket,806.54,Cash,Travel
+2025-01-15,Electricity Bill,2874.65,Card,Utilities
+2025-01-01,Medicine Store,3997.06,NetBanking,Health
+2025-02-26,Swiggy Delivery,2789.1,Card,Food
+2025-01-29,Apollo Pharmacy,1690.91,UPI,Health
+2025-01-29,Myntra Clothing,419.53,Card,Shopping
+2025-01-23,Flipkart Order,2478.91,NetBanking,Shopping
+2025-02-04,Cafe Coffee Day,995.49,NetBanking,Food
+2025-02-20,McDonald's,2719.07,Card,Food
+2025-02-02,Health Insurance,315.24,UPI,Health
+2025-01-17,Netflix Subscription,4822.75,Card,Entertainment
+2025-02-22,Cafe Coffee Day,1588.91,Cash,Food
+2025-01-19,Electronics Store,946.74,UPI,Shopping
+2025-02-14,Spotify Premium,2251.26,UPI,Entertainment
+2025-01-01,DTH Recharge,1299.86,UPI,Utilities
+2025-02-27,Amazon Purchase,3665.56,NetBanking,Shopping
+2025-01-26,Zomato Order,2498.13,UPI,Food
+2025-02-02,Zomato Order,725.2,NetBanking,Food
+2025-01-01,Myntra Clothing,4156.25,Cash,Shopping
+2025-01-17,Myntra Clothing,635.61,NetBanking,Shopping
+2025-01-04,Doctor Consultation,1381.66,NetBanking,Health
+2025-02-21,Gas Bill,4603.5,Cash,Utilities
+2025-02-10,Water Bill,3780.82,NetBanking,Utilities
+2025-01-10,Internet Bill,1733.03,Card,Utilities
+2025-01-20,BookMyShow Tickets,292.89,UPI,Entertainment
+2025-01-14,Flipkart Order,4340.71,Cash,Shopping
+2025-01-28,DTH Recharge,4386.23,UPI,Utilities
+2025-01-12,Internet Bill,381.16,UPI,Utilities
+2025-02-10,Gas Bill,3066.36,NetBanking,Utilities
+2025-01-08,Myntra Clothing,3842.25,Card,Shopping
+2025-01-23,Health Insurance,159.1,Card,Health
+2025-01-23,BookMyShow Tickets,3587.63,Cash,Entertainment
+2025-02-09,McDonald's,3024.44,UPI,Food
+2025-01-03,Spotify Premium,4952.14,NetBanking,Entertainment
+2025-02-15,Gas Bill,1656.18,Cash,Utilities
+2025-01-22,BookMyShow Tickets,3231.22,NetBanking,Entertainment
+2025-01-25,Ola Cab,3013.53,Cash,Travel
+2025-02-10,Big Bazaar Groceries,3895.66,Cash,Shopping
+2025-01-08,Doctor Consultation,1535.77,Card,Health
+2025-02-16,Myntra Clothing,3752.07,UPI,Shopping
+2025-01-03,Medicine Store,3175,Card,Health
+2025-02-08,Big Bazaar Groceries,3975.14,NetBanking,Shopping
+2025-02-08,YouTube Premium,1663.26,UPI,Entertainment
+2025-02-27,Gas Bill,2905.19,UPI,Utilities
+2025-01-20,Ola Cab,1090.51,Cash,Travel
+2025-02-21,Myntra Clothing,711.14,NetBanking,Shopping
+2025-02-17,Metro Recharge,593.04,Card,Travel
+2025-02-23,Amazon Purchase,844.23,Card,Shopping
+2025-01-12,Doctor Consultation,908.73,NetBanking,Health
+2025-02-21,Amazon Purchase,268.18,Card,Shopping
+2025-02-27,Flight Booking,248.82,NetBanking,Travel
+2025-01-25,Myntra Clothing,3570.53,Card,Shopping
+2025-03-02,Electronics Store,1793.75,UPI,Shopping
+2025-01-09,Mobile Recharge,2810.54,UPI,Utilities
+2025-02-22,DTH Recharge,751.52,NetBanking,Utilities
+2025-02-02,Uber Ride,1198.75,UPI,Travel
+2025-02-01,Gas Bill,4177.47,Cash,Utilities
+2025-01-03,Apollo Pharmacy,1550.06,NetBanking,Health
+2025-02-08,Domino's Pizza,811.73,UPI,Food
+2025-01-23,Medicine Store,4888.21,NetBanking,Health
+2025-02-22,Big Bazaar Groceries,3181.87,UPI,Shopping
+2025-01-05,Amazon Purchase,2943.49,Card,Shopping
+2025-01-11,Health Insurance,2952.98,Cash,Health
+2025-01-20,Gas Bill,2710.58,NetBanking,Utilities
+2025-02-19,KFC,1114.4,Cash,Food
+2025-01-01,Netflix Subscription,3250.59,Cash,Entertainment
+2025-01-06,Amazon Purchase,2991.59,Card,Shopping
+2025-01-04,McDonald's,3609.69,UPI,Food
+2025-01-23,Spotify Premium,3294.31,Card,Entertainment
+2025-01-14,Domino's Pizza,1508.72,NetBanking,Food
+2025-01-02,Myntra Clothing,4384.84,NetBanking,Shopping
+2025-01-03,Mobile Recharge,4047.96,NetBanking,Utilities
+2025-01-31,Swiggy Delivery,2532.58,Cash,Food
+2025-01-13,DTH Recharge,1446.29,Card,Utilities
+2025-02-28,Cafe Coffee Day,2840.62,UPI,Food
+2025-01-21,Metro Recharge,1138.71,Card,Travel
+2025-02-06,BookMyShow Tickets,2896.15,UPI,Entertainment
+2025-01-27,Internet Bill,4399.41,UPI,Utilities
+2025-01-06,YouTube Premium,4513.96,Card,Entertainment
+2025-02-27,Spotify Premium,761.92,Cash,Entertainment
+2025-02-19,Electricity Bill,317.18,Card,Utilities
+2025-01-25,Amazon Purchase,855.36,Cash,Shopping
+2025-02-03,KFC,2240.85,Cash,Food
+2025-01-25,McDonald's,2550.07,Card,Food
+2025-02-02,Doctor Consultation,3949.52,Cash,Health
+2025-01-15,Petrol Pump,4897.78,Cash,Travel
+2025-01-19,Netflix Subscription,588.25,NetBanking,Entertainment
+2025-02-16,Spotify Premium,3506.82,UPI,Entertainment
+2025-01-25,Ola Cab,2530.52,UPI,Travel
+2025-01-15,YouTube Premium,3281.29,UPI,Entertainment
+2025-02-11,Mobile Recharge,989.88,UPI,Utilities
+2025-02-18,KFC,3257.23,Card,Food
+2025-02-26,Metro Recharge,3744.71,NetBanking,Travel
+2025-02-13,Train Ticket,2015.3,Card,Travel
+2025-02-13,Uber Ride,276.36,UPI,Travel
+2025-01-09,Netflix Subscription,3731.57,NetBanking,Entertainment
+2025-02-09,Medicine Store,4236.02,Card,Health
+2025-01-06,McDonald's,2707.58,Card,Food
+2025-02-13,Gas Bill,2206.65,NetBanking,Utilities
+2025-02-21,Health Insurance,3778.29,UPI,Health
+2025-02-28,Mobile Recharge,688.49,Cash,Utilities
+2025-01-20,Apollo Pharmacy,4510.09,NetBanking,Health
+2025-03-01,KFC,4050.35,NetBanking,Food
+2025-02-01,Hospital Bill,1216.87,Cash,Health
+2025-01-28,Water Bill,563.3,Cash,Utilities
+2025-02-12,Petrol Pump,4579.91,NetBanking,Travel
+2025-01-07,Health Insurance,621.27,NetBanking,Health
+2025-01-20,Zomato Order,1345.86,NetBanking,Food
+2025-01-08,Netflix Subscription,3285.91,UPI,Entertainment
+2025-02-26,BookMyShow Tickets,2146.53,UPI,Entertainment
+2025-02-22,Hospital Bill,3088.53,UPI,Health
+2025-02-12,Uber Ride,4891.09,NetBanking,Travel
+2025-02-12,Water Bill,2125.24,NetBanking,Utilities
+2025-01-03,Petrol Pump,3706.48,NetBanking,Travel
+2025-01-13,YouTube Premium,3041.47,Card,Entertainment
+2025-01-05,Doctor Consultation,2432.03,Card,Health
+2025-01-04,Electronics Store,449,Card,Shopping
+2025-01-05,Medicine Store,4080.63,Cash,Health
+2025-02-07,Amazon Purchase,1100.45,UPI,Shopping
+2025-01-21,DTH Recharge,2728.87,NetBanking,Utilities
+2025-01-30,Doctor Consultation,1465.59,Cash,Health
+2025-02-24,Gas Bill,609.84,NetBanking,Utilities
+2025-01-17,Train Ticket,3080.92,Card,Travel
+2025-01-20,Electronics Store,2203.93,Cash,Shopping
+2025-02-03,Zomato Order,1676.7,Card,Food
+2025-02-14,Hospital Bill,2393.6,NetBanking,Health
+2025-01-08,PVR Cinemas,3358.44,NetBanking,Entertainment
+2025-02-23,DTH Recharge,1647.89,Card,Utilities
+2025-01-21,PVR Cinemas,4379.44,UPI,Entertainment
+2025-01-23,Big Bazaar Groceries,3939.21,Cash,Shopping
+2025-01-15,Gas Bill,2459.37,Cash,Utilities
+2025-02-10,Gas Bill,825.35,NetBanking,Utilities
+2025-02-27,Hospital Bill,664.21,UPI,Health
+2025-01-30,Mobile Recharge,1814.38,UPI,Utilities
+2025-02-15,Myntra Clothing,2537.71,UPI,Shopping
+2025-02-07,Swiggy Delivery,4011.61,UPI,Food
+2025-02-28,Domino's Pizza,417.91,UPI,Food
+2025-01-17,Spotify Premium,3876.28,Cash,Entertainment
+2025-01-01,KFC,2400.15,UPI,Food
